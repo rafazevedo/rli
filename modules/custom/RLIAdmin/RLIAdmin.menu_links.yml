@@ -1,0 +1,5 @@
+RLIAdmin.config:
+    title: RLI Configuração
+    description: 'Link para a página de configuração do módulo administrativo'
+    parent: system.admin_structure
+    route_name: RLIAdmin.config

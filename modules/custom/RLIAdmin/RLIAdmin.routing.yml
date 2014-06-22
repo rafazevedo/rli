@@ -1,0 +1,8 @@
+RLIAdmin.config:
+    path: '/rliadmin/config'
+    defaults:
+        _form: '\Drupal\RLIAdmin\Form\RLIConfigForm'
+        _title: 'Pagina de configuração'
+    requirements:
+        _permission: 'access content'
+

@@ -1,0 +1,12 @@
+<?php
+
+function RLIAdmin_menu() {
+    return array(
+        '/rliadmin/config' => array(
+            'title' => t('Configuração'),
+            'description' => 'Teste',
+            'weight' => 10,            
+            'route_name' => 'RLIAdmin.config',
+        )
+    );
+}

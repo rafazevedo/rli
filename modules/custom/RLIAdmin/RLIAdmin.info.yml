@@ -1,0 +1,6 @@
+name: 'RLI Admin'
+type: module
+description: 'Módulo administrativo para o site RLI.'
+package: RLI
+version: 0.0.1
+core: 8.x
